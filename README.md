@@ -1,6 +1,8 @@
-### Project Title
+### Project Title 
+**Predicting Shipment Delivery Time for the Shipping Optimization Challenge**
 
 **Author**
+Jing Li
 
 #### Executive summary
 This project aims to predict **shipping time** for shipments based on their attributes — such as route, mode (Air/Ocean), weight, cost, and shipping company details. Using the Kaggle Shipping Optimization Challenge dataset, I performed data cleaning, feature engineering, and exploratory data analysis (EDA) to understand key drivers of shipping time. Early results show that **shipment mode** (Air vs. Ocean) and **route/company combinations** are the dominant predictors, with significant differences in average transit time and variance. This sets the foundation for building predictive models that can improve estimated times of arrival (ETAs) and help logistics teams make better planning decisions.
