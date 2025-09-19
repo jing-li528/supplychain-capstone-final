@@ -45,8 +45,8 @@ The primary data source is the **[Shipping Optimization Challenge dataset on Kag
 - Feature importance confirms shipment mode, route, and company as top predictors — actionable levers for planners.
 
 **Visual Summary**
-![MAE Comparison](MAE_plot.png)  
-![% within ±12h Comparison](accuracy_plot.png)
+![MAE Comparison](MAE_Comparison.png)  
+![% within ±12h Comparison](Accuracy_Comparison.png)
 
 #### Next steps
 - **Refinement:**  
