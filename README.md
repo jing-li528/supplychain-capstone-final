@@ -67,7 +67,7 @@ The primary data source is the **[Shipping Optimization Challenge dataset on Kag
 
 #### Outline of project
 
-- [Link to notebook 1](https://github.com/jing-li528/supplychain-capstone-final/blob/main/capstone_final.ipynb)
+- [Link to notebook](https://github.com/jing-li528/supplychain-capstone-final/blob/main/capstone_final.ipynb)
 
 
 
